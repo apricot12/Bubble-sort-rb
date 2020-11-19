@@ -1,59 +1,34 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Bubble Sort algorithm - Ruby
 
-> One paragraph statement about the project.
-
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+> Here we implement the bubble sort for two cases : a)Array of integers b)Array of strings using yield.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- Ruby
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+**To get this project running on your machine, follow these instructions:**
+1) Copy repository link
+2) Open terminal
+3) Clone repository on to local machine
+4) Run the code!
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@apricot12](https://github.com/apricot12)
+- Twitter: [@apricotfoxtrot](https://twitter.com/apricotfoxtrot)
+- LinkedIn: [LinkedIn](https://linkedin.com/aprikot-web)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- GitHub: [@Byabasaija](https://github.com/Byabasaija)
+- Twitter: [@Pascal](https://twitter.com/byabashaijapoet)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/pascal-byabasaija-80578814b/)
 
 ## 🤝 Contributing
 
