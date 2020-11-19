@@ -9,6 +9,7 @@ def bubble_sort(array)
         swap = true
       end
     end
+    break if not swap
   end
   array
 end
@@ -29,6 +30,7 @@ def bubble_sort_by(arr)
         swap = true
       end
     end
+    break if not swap
   end
   arr
 end
