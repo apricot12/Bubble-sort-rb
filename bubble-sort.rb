@@ -16,3 +16,26 @@ end
 test = [2, 79, 100, 54, 9, 12]
 
 p bubble_sort(test)
+
+
+def bubble_sort_by(arr)
+    len = arr.length
+    swap = true
+    while swap do
+        swap = false
+        (len-1).times do |i|
+            compare = yield arr[i], arr[i+1]
+            if compare.positive?
+                arr[i], arr[i+1] = arr[i+1], arr[i]
+            swap = true
+            end
+        end
+    end
+    arr
+end
+yield_test = bubble_sort_by(["hi","hello","hey"]) do |left,right|
+    left.length - right.length
+end
+p yield_test
+
+
