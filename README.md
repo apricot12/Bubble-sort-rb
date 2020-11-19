@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Bubble Sort algorithm - Ruby
 
 > Here we implement the bubble sort for two cases : a)Array of integers b)Array of strings using yield.
 
@@ -10,14 +10,11 @@
 
 ## Getting Started
 
-**To get this project running on your machine, follow these instructions: **
+**To get this project running on your machine, follow these instructions:**
 1) Copy repository link
 2) Open terminal
 3) Clone repository on to local machine
 4) Run the code!
-
-
-To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
